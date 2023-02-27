@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/happy-wish-recipe/static/css/main.7272662b.css",
+    "main.js": "/happy-wish-recipe/static/js/main.cf722307.js",
+    "index.html": "/happy-wish-recipe/index.html",
+    "main.7272662b.css.map": "/happy-wish-recipe/static/css/main.7272662b.css.map",
+    "main.cf722307.js.map": "/happy-wish-recipe/static/js/main.cf722307.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7272662b.css",
+    "static/js/main.cf722307.js"
+  ]
+}
